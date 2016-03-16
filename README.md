@@ -19,5 +19,5 @@ You must implement this using a recursion and strip out non letters using `re.su
 ## Additional Resources
 
 * [Palindrome list](http://www.palindromelist.net/).
-* [String type in Python](https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str).
+* [Logging Tutorial](https://docs.python.org/3/howto/logging.html)
 * [Regular expression operations](https://docs.python.org/3/library/re.html).
