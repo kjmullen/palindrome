@@ -13,7 +13,8 @@ You must implement this using a recursion and strip out non letters using `re.su
 
 ## Hard Mode
 
-Make both an iterative and recursive version of your palindrome test function.
+* Make both an iterative and recursive version of your palindrome test function.
+* Add simple file logging into the palindrome.  Log out at INFO level the time, phrase and if it was a palindrome.
 
 ## Additional Resources
 
